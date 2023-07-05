@@ -51,7 +51,7 @@ git clone https://github.com/<your-github-username>/Instagram-Clone.git
 
 <h2>Overview⭐</h2>
 
-- ## `Login Page`
+- # `Login Page`
 ![login](https://user-images.githubusercontent.com/73993775/189539300-553b6f23-9fae-4ec8-a7cf-bf4c62743bd9.jpg)
 <p align="right">(<a href="#top">back to top</a>)</p>
 
